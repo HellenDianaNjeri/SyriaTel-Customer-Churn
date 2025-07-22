@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="images/customer churn infographic.png" alt="Customer Churn Infographic" width="700"/>
+</p>
+
 # Syriatel Customer Churn Prediction
 
 Predicting customer churn for Syriatel, a telecom provider, using machine learning and data analytics. The goal is to identify factors driving churn and build a predictive model to retain high-risk customers.
 
-**Author:** [Hellen Diana](https://github.com/HellenDianaNjeri/SyriaTel-Customer-Churn.git)
+**Author:** [Hellen Diana](https://github.com/HellenDianaNjeri)
 
 ---
 
@@ -122,7 +126,7 @@ Revealed significant variance in `total_charge`, `day_minutes`, etc., across chu
 
 ---
 
-## 📊 Interactive Dashboard
+## Interactive Dashboard
 
 Explore the interactive dashboard built with Tableau to visualize churn patterns, customer behavior, and high-risk segments:
 
