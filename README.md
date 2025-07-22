@@ -120,6 +120,17 @@ Revealed significant variance in `total_charge`, `day_minutes`, etc., across chu
 
 ---
 
+---
+
+## 📊 Interactive Dashboard
+
+Explore the interactive dashboard built with Tableau to visualize churn patterns, customer behavior, and high-risk segments:
+
+[🔗 View Full Dashboard on Tableau Public](https://public.tableau.com/app/profile/hellen.diana.macharia/viz/SyriatelCustomerChurnAnalysis/Dashboard1?publish=yes)
+
+![Dashboard Preview](images\Dashboard_preview.png)
+
+
 ##  How to Run
 
 1. **Clone the repository:**
