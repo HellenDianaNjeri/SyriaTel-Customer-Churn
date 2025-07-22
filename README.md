@@ -128,7 +128,7 @@ Explore the interactive dashboard built with Tableau to visualize churn patterns
 
 [🔗 View Full Dashboard on Tableau Public](https://public.tableau.com/app/profile/hellen.diana.macharia/viz/SyriatelCustomerChurnAnalysis/Dashboard1?publish=yes)
 
-![Dashboard Preview](images\Dashboard_preview.png)
+![Dashboard Preview](images/Dashboard_preview.png)
 
 
 ##  How to Run
