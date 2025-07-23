@@ -9,6 +9,32 @@ Predicting customer churn for Syriatel, a telecom provider, using machine learni
 **Author:** [Hellen Diana](https://github.com/HellenDianaNjeri)
 
 ---
+## REPOSITORY STRUCTURE
+
+<pre>
+SyriaTel-Customer-Churn/
+│
+├── data/
+│   └── churn_data.csv                     
+│
+├── notebooks/
+│   └── SyriaTel Customer Churn.ipynb   
+│
+├── images/
+│   ├── customer churn infographic.png
+│   ├── CHURN BY AREA CODE.png
+│   ├── CHURN DISTRIBUTION.png
+│   ├── CUSTOMER SERVICE CALLS VS CHURN.png
+│   └── Dashboard_preview.png             
+│
+├── presentation/
+│   └── SYRIATEL CUSTOMER CHURN PREDICTION.pdf  
+│
+├── requirements.txt                      
+├── README.md                              
+├── .gitignore                             
+└── LICENSE                                
+</pre>
 
 ## Business Understanding
 
